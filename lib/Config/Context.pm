@@ -1700,6 +1700,10 @@ C<bug-config-context@rt.cpan.org>, or through the web interface at
 L<http://rt.cpan.org>.  I will be notified, and then you'll automatically
 be notified of progress on your bug as I make changes.
 
+=head1 SOURCE
+
+The source code repository for this module can be found at http://github.com/mgraham/Config-Context
+
 =head1 COPYRIGHT & LICENSE
 
 Copyright 2005 Michael Graham, All Rights Reserved.
